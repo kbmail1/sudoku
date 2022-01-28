@@ -1,0 +1,14 @@
+{
+  "name": "biv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Muhammad Tauqeer",
+  "license": "MIT",
+  "scripts": {
+    "test": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  }
+}
